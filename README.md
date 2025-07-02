@@ -17,7 +17,7 @@ Responsive basics using semantic HTML
 
 Clean, readable, and well-commented code
 
-## deal For
+## Ideal For
 Beginners practicing HTML layout
 
 Developers designing static food templates
